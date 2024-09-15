@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+asyncpg
+aioredis
+transformers
+celery
+pydantic
+gunicorn
+tqdm
+scikit-learn
